@@ -73,4 +73,4 @@ Built against Entrust's public trial/developer access — no employer systems, n
 
 - [ ] App name (working title: *Financial Health App*)
 - [ ] Final stack (Step 3)
-- [ ] Repo starts private; flip to public at Phase 5 for the resume link
+- [x] Repo visibility: **public from day one** (decided Nov 14, 2026 — a portfolio project's history is part of the evidence; corollary rule: never commit real personal financial data, use sample data only)
