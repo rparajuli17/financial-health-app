@@ -71,6 +71,6 @@ Built against Entrust's public trial/developer access — no employer systems, n
 
 ## 9. Open decisions
 
-- [ ] App name (working title: *Financial Health App*)
+- [x] App name: **Financial Health App** (matches the repo name; decided Nov 14, 2026)
 - [ ] Final stack (Step 3)
 - [x] Repo visibility: **public from day one** (decided Nov 14, 2026 — a portfolio project's history is part of the evidence; corollary rule: never commit real personal financial data, use sample data only)
